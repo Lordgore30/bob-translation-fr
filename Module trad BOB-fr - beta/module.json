@@ -1,0 +1,34 @@
+{  "name": "greg-translation-fr",
+"title": "[Translation] Band of Blades Franch",
+"description": "la trad de greg de Band of Blades",
+"version": "1.0",
+"author": "Lordgore30",
+"minimumCoreVersion": "9",
+"compatibleCoreVersion": "10",
+   "compatibility": {
+      "minimum": 9,
+      "verified": 10
+  },
+"scripts": [],
+"esmodules": [],
+"styles": [], 
+"dependencies": [
+  {
+    "name": "band-of-blades",
+    "type": "system",
+    "version": "1.8.3"
+  }
+ ],
+"languages": [
+  {
+    "lang": "fr",
+    "name": "Français",
+    "path": "lang/fr.json"
+  }
+],
+"system": "band-of-blades",
+"systemVersion": "1.8.3",
+"url": "https://github.com/Lordgore30/bob-translation-fr",
+"manifest": "https://raw.githubusercontent.com/Lordgore30/bob-translation-fr/main/module.json",
+"download": "https://drive.google.com/file/d/1QeSTdpXupirPtf3g3-YXqyLFSbB7aywd/view?usp=share_link/Module trad BOB-fr - beta.zip"
+}
