@@ -1,0 +1,34 @@
+{  "name": "greg-translation-fr",
+"title": "[Translation] Band of Blades Franch",
+"description": "la trad de greg de Band of Blades",
+"version": "1.0",
+"author": "greg",
+"minimumCoreVersion": "9",
+"compatibleCoreVersion": "10",
+   "compatibility": {
+      "minimum": 9,
+      "verified": 10
+  },
+"scripts": [],
+"esmodules": [],
+"styles": [], 
+"dependencies": [
+  {
+    "name": "band-of-blades",
+    "type": "system",
+    "version": "1.8.3"
+  }
+ ],
+"languages": [
+  {
+    "lang": "fr",
+    "name": "Français",
+    "path": "lang/fr.json"
+  }
+],
+"system": "band-of-blades",
+"systemVersion": "1.8.3",
+"url": "adresse",
+"manifest": "adresse/module.json",
+"download": "adresse/greg-translation-fr.zip"
+}
