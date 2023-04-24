@@ -28,7 +28,7 @@
 ],
 "system": "band-of-blades",
 "systemVersion": "1.8.3",
-"url": "adresse",
-"manifest": "adresse/module.json",
+"url": "https://github.com/Lordgore30/bob-translation-fr",
+"manifest": "https://github.com/Lordgore30/bob-translation-fr/blob/main/module.json",
 "download": "adresse/greg-translation-fr.zip"
 }
