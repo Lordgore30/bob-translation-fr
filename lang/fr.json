@@ -133,10 +133,10 @@
   "BITD.Actions5Detail": "La Légion consacre un peu de temps aux soins et au repos. Tous les Légionnaires ajoutent une coche à n’importe quelle rangée de blessure. Une fois la rangée entièrement cochée, effacez les coches et toutes les blessures sur cette rangée. Si vous blessez un Miséricorde, un personnage ainsi soigné note une coche de guérison supplémentaire. Finalement, guérissez les Miséricordes qui étaient blessés avant cette action de récupération..<br /><strong>Coup de pouce:</strong> Chaque légionnaire gagne une seconde coche de guérison.",
 
   "BITD.Mercies": "Miséricordes",
-  "BITD.MerciesLabel": "2tranges guerrisseurs qui absorbent les blessures et les transfèrent sur eux-mêmes",
+  "BITD.MerciesLabel": "Etranges guerrisseurs qui absorbent les blessures et les transfèrent sur eux-mêmes",
   "BITD.Alchemists": "Alchimistes",
   "BITD.AlchemistsLabel": "Des scientifiques capables de fabriquer des breuvages alchimiques et de guérir des maladies mystiques",
-  "BITD.AlchemistsHelp": "LAncez d'abord un nombre de dés égal à vos alchimistes pour déterminer l'effet.<br />Puis lancez de nouveau pour la corruption(1-3: 3. 4/5: 2. 6: 1. crit: 0).<br />Distribuez cette corruption entre les différents compteur de corruption de vos alchimistes. Un alchimiste dont le compteur est plein est retiré du jeu. <br /> Les projets particulièrement dangereux peuvent ajout 1 ou 2 points de corruption par jet.",
+  "BITD.AlchemistsHelp": "Lancez d'abord un nombre de dés égal à vos alchimistes pour déterminer l'effet.<br />Puis lancez de nouveau pour la corruption(1-3: 3. 4/5: 2. 6: 1. crit: 0).<br />Distribuez cette corruption entre les différents compteur de corruption de vos alchimistes. Un alchimiste dont le compteur est plein est retiré du jeu. <br /> Les projets particulièrement dangereux peuvent ajout 1 ou 2 points de corruption par jet.",
   "BITD.Laborers": "Ouvriers",
   "BITD.LaborersLabel": "une catégorie fourre ­tout qui désigne les forgerons, les ingénieurs, les charpentiers, etc...",
   "BITD.Wounded": "Blessures",
@@ -177,7 +177,7 @@
   "BITD.AnnalsLabel4": "Retraçez l'histoire du sens et des valeurs de la Légion",
   "BITD.AnnalsDetail4": "La Légion n’est plus une simple unité militaire, mais une famille dont les liens ont été forgés dans le sang versé depuis des siècles...<ul><li>En quoi les civils traitent-ils la Légion différemment des autres unités?</li><li>Comment les nouvelles recrues sont-elles intégrées à la Légion?</li><li>Quel serment doit être prononcé par tous tes Légionnaires?</li></ul>",
   "BITD.AnnalsEffect4": "<ul><li>La Légion récompense un comportement exemplaire. Un bleu est promu au grade de Soldat.</li><li>Les Légionnaires se rappellent pourquoi ils combattent. PRochaine session: Une mission (et une seule) gagnera +2 dés sur son Engagement.</li><li>Les Légionnaires se protègent les uns les autres.Prochaine mission principale: chaque spécialiste gagne 1 point d'armure spéciale.</li></ul>",
-  "BITD.AnnalsLabel5": "Tell a Tale of Your Choice",
+  "BITD.AnnalsLabel5": "Racontez une histoire de votre choix",
   "BITD.AnnalsDetail5": "Quand toutes les Histoires ont été dites, et si 4 noms de plus sont rajoutés aux Chroniques, vous pouvez raconter l’Histoire de votre choix – mais pas plus d’une fois avant que chaque thème ait été repris au moins une fois.",
 
   "BITD.Camp": "Retour au Camp",
@@ -218,9 +218,9 @@
   "BITD.LTMissionsDetail": "Pendant les actions de campagne, les espions peuvent être assignés sur des missions à long terme. Un seul espion peut être assigné sur chaque commission. Un espion blessé qui est blessé à nouveau meurt. Cliquez sur l'intitulé de mission pour lancer sur chaque mission.",
 
   "BITD.AugmentLabel": "Valorisation de Missions",
-  "BITD.AugmentDetail": "Tires parti de vos contacts pour aider au choix de mission par le Commandant.<br /><br /><strong>Terminée:</strong> à la prochaine phase de génération de missions par le MJ, diteslui d’ajouter +1 aux jets de récompenses et pénalités de mission, sur l’une des missions du type privilégié par le Commandant. Ce type de mission doit apparaître au moins une fois dans les missions générées.",
+  "BITD.AugmentDetail": "Tirez parti de vos contacts pour aider au choix de mission par le Commandant.<br /><br /><strong>Terminée:</strong> à la prochaine phase de génération de missions par le MJ, diteslui d’ajouter +1 aux jets de récompenses et pénalités de mission, sur l’une des missions du type privilégié par le Commandant. Ce type de mission doit apparaître au moins une fois dans les missions générées.",
   "BITD.ExpandLabel": "Extension du Réseau",
-  "BITD.ExpandDetail": "Vous établissez des contacts, choisissez des informateurs, et réunissez des ressources locales pour étendre et d’augmenter l’efficacité de vos espions.<br /><br /><strong>Terminée:</strong> choisissez une nouvelle capacité de réseau d’espion, reliée à un élément existant du réseau . Les bonus associés sont immédiatement valables.",
+  "BITD.ExpandDetail": "Vous établissez des contacts, choisissez des informateurs, et réunissez des ressources locales pour étendre et augmenter l’efficacité de vos espions.<br /><br /><strong>Terminée:</strong> choisissez une nouvelle capacité de réseau d’espion, reliée à un élément existant du réseau . Les bonus associés sont immédiatement valables.",
   "BITD.TrapLabel": "Pose de Pièges",
   "BITD.TrapDetail": "Poussez un puissant Ennemi à s’exposer à une attaque en jouant sur une de ses faiblesses ou un de ses désirs connus.<br /><br /><strong>Terminée:</strong> la prochaine liste de missions inclura une mission d’assaut, ciblant un Lieutenant ou un Notoire spécifique.",
   "BITD.RecruitLabel": "Recrutement",
@@ -279,7 +279,7 @@
   "BITD.MarshalLook3": "Borgne",
   "BITD.MarshalLook4": "Impeccable",
   "BITD.MarshalLook5": "Grisonnant",
-  "BITD.MarshalDuties": "<ul><li><strong>Suivre le Moral.</strong> LE Moral augmente avec l'action de campagne Quartier Libre, ou avec des récompenses de mission. Il diminue par pénalités de mission, quand des légionnaires meurent(-1 par mort ou désertion), et par manque de Réserves (-1) ou de provisions (-2) quand elles doivent être dépensées.</li><li><strong>Décidez qui participe et qui commande les Missions.</strong> Décidez qui part en mission. Les missions sont accomplies par défaut par 1 escouade et jusqu'à 2 spécialistes. Si un Officier est affecté à une mission, c’est lui qui la commande. Sinon, c’est à vous d’en désigner le chef.</li><li><strong>Suivre les Escouades et les Specialistes.</strong> Entre les missions, tenez à jour les livrets de PJs. Notez les pertes, blessures et promotions. Nommez les membres d’une escouade si besoin. Détaillez également tous les Spécialistes rejoignant la Légion.</li><li><strong>Faire les Jets d'Engagement.</strong> Voir les règles d'Engagement. C'est votre responsabilité de lancer.</li><li><strong>Suivre la progression des Legionnaires.</strong> Assurez­vous que personne n’oublie de noter son expérience à la suite des missions. Les missions secondaires confèrent 2 px aux Spécialistes participants, quel que soit leur résultat.</li><li><strong>Collaborer avec les autres Rôles.</strong> Consultez les autres joueurs avant de prendre vos décisions, mais gardez le dernier mot concernant vos responsabilités.</li></ul>",
+  "BITD.MarshalDuties": "<ul><li><strong>Suivre le Moral.</strong> Le Moral augmente avec l'action de campagne Quartier Libre, ou avec des récompenses de mission. Il diminue par pénalités de mission, quand des légionnaires meurent(-1 par mort ou désertion), et par manque de Réserves (-1) ou de provisions (-2) quand elles doivent être dépensées.</li><li><strong>Décidez qui participe et qui commande les Missions.</strong> Décidez qui part en mission. Les missions sont accomplies par défaut par 1 escouade et jusqu'à 2 spécialistes. Si un Officier est affecté à une mission, c’est lui qui la commande. Sinon, c’est à vous d’en désigner le chef.</li><li><strong>Suivre les Escouades et les Specialistes.</strong> Entre les missions, tenez à jour les livrets de PJs. Notez les pertes, blessures et promotions. Nommez les membres d’une escouade si besoin. Détaillez également tous les Spécialistes rejoignant la Légion.</li><li><strong>Faire les Jets d'Engagement.</strong> Voir les règles d'Engagement. C'est votre responsabilité de lancer.</li><li><strong>Suivre la progression des Legionnaires.</strong> Assurez­vous que personne n’oublie de noter son expérience à la suite des missions. Les missions secondaires confèrent 2 px aux Spécialistes participants, quel que soit leur résultat.</li><li><strong>Collaborer avec les autres Rôles.</strong> Consultez les autres joueurs avant de prendre vos décisions, mais gardez le dernier mot concernant vos responsabilités.</li></ul>",
 
   "BITD.QuartermasterReputation1": "Precis",
   "BITD.QuartermasterReputation2": "Intelligent",
@@ -296,7 +296,7 @@
   "BITD.QuartermasterLook3": "Flamboyant",
   "BITD.QuartermasterLook4": "Fatigué",
   "BITD.QuartermasterLook5": "Grisonnant",
-  "BITD.QuartermasterDuties": "<ul><li><strong>Gérer et Dépenser les Réserves.</strong> Vous gagnez des réserves surtout grâce aux récompenses de missions logistiques. Dépensez­les pour disposer d'actions de campagne en plus, ou pour donner un coup de pouce à une action de campagne. Si le Commandant décide d'avancer, vous perdez les réserves que vous ne pouvez emporter (3 réserves max., plus 1 par charroi).</li><li><strong> Suivre le stock de Ressources et Gerer le personnel non-légionnaire.</strong> Dépensez du matériel consommable afin d’améliorer les chances de succès des missions. Notez les statuts (blessures, corruption) des Miséricordes et des Alchimistes. Travaillez sur des projets permettant d'améliorer la situation de la Légion.</li><li><strong>Effectuer vos Actions de Campagne.</strong> Après chaque mission, vous effectuez un nombre d’actions de campagne variant selon le moral des troupes (demandez au Second).</li><li><strong>Collaborer avec les autres Rôles.</strong> Consultez les autres joueurs pour prendre les meilleures décisions possible, mais gardez le dernier mot concernant les responsabilités qui vous incombent. Le destin de la Légion est entre vos mains. Bonne chance.</li></ul>",
+  "BITD.QuartermasterDuties": "<ul><li><strong>Gérer et Dépenser les Réserves.</strong> Vous gagnez des réserves surtout grâce aux récompenses de missions logistiques. Dépensez­ les pour disposer d'actions de campagne en plus, ou pour donner un coup de pouce à une action de campagne. Si le Commandant décide d'avancer, vous perdez les réserves que vous ne pouvez emporter (3 réserves max., plus 1 par charroi).</li><li><strong> Suivre le stock de Ressources et Gerer le personnel non-légionnaire.</strong> Dépensez du matériel consommable afin d’améliorer les chances de succès des missions. Notez les statuts (blessures, corruption) des Miséricordes et des Alchimistes. Travaillez sur des projets permettant d'améliorer la situation de la Légion.</li><li><strong>Effectuer vos Actions de Campagne.</strong> Après chaque mission, vous effectuez un nombre d’actions de campagne variant selon le moral des troupes (demandez au Second).</li><li><strong>Collaborer avec les autres Rôles.</strong> Consultez les autres joueurs pour prendre les meilleures décisions possible, mais gardez le dernier mot concernant les responsabilités qui vous incombent. Le destin de la Légion est entre vos mains. Bonne chance.</li></ul>",
 
   "BITD.LorekeeperReputation1": "Sage",
   "BITD.LorekeeperReputation2": "Amical",
@@ -393,11 +393,11 @@
   "BITD.Quality": "Qualité",
   "BITD.ClassExpClue1": "Chaque fois que vous lancez en position desespérée, marquez un xp dans la caractéristique concernée.",
   "BITD.ClassExpClue2": "Si vous survivez à la mission.",
-  "BITD.ClassExpClue3": "Si vous avez misz en jeu l'un de vos héritages.",
+  "BITD.ClassExpClue3": "Si vous avez mis en jeu l'un de vos héritages.",
   "BITD.ClassExpClue4": "Si vous avez lutté contre vos traumatismes.",
-  "BITD.ClassExpClue5": "Marquez 1 xp par niveau de menace de l'adversaire le plus menaçant que vous avez affronté.",
-  "BITD.ClassExpClue6": "LEs spécialistes affectés à une mission secondaire marquent 2xp pour avoir survécu.",
-  "BITD.ClassExpClueDescription": "A la fin de chaque mission, marquez 1xp pour chaque thème suivant, dans vos caractéristiques ou votre playbook:",
+  "BITD.ClassExpClue5": "Marquez 1 xp par niveau de menace de l'adversaire le plus dangereux que vous ayez affronté.",
+  "BITD.ClassExpClue6": "Les spécialistes affectés à une mission secondaire marquent 2xp pour avoir survécu.",
+  "BITD.ClassExpClueDescription": "A la fin de chaque mission, marquez 1xp pour chaque thème suivant, dans vos caractéristiques ou votre Livret de jeu:",
   "BITD.ClassSpecificExpClue": "Marqueur d'xp spécifiques de classe",
   "BITD.Abilities": "Capacités",
   "BITD.Notes": "Notes",
@@ -442,7 +442,7 @@
   "BITD.RollResist": "Résistance",
   "BITD.RollResistDescription": "Vous <strong>réduisez</strong> ou <strong>évitez</strong> complètement les conséquences de l'effet (Choix du MJ).<br><br>Prenez un nombre de points de <strong>Stress</strong> égal à 6 moins le plus haut (ou le plus bas en cas de jet 0d) résultat du dé<strong>",
   "BITD.RollCritResist": "Résistance Critique",
-  "BITD.RollCritResistDescription": "Vous <strong>réduisez</strong> ou <strong>avoidévitez</strong> complètement les conséquences de l'effet. (Choix du MJ).<br><br><strong>Effaçez 1 Stress.</strong>",
+  "BITD.RollCritResistDescription": "Vous <strong>réduisez</strong> ou <strong>évitez</strong> complètement les conséquences de l'effet. (Choix du MJ).<br><br><strong>Effaçez 1 Stress.</strong>",
 
   "BITD.RollVerySlow": "Très Lent",
   "BITD.RollVerySlowDescription": "La Légion avance très lentement et la progression est interminable avant votre arrivée.  Ajoutez <strong>Cinq</strong> segments à l'horloge du Temps.",
@@ -455,8 +455,8 @@
 
   "BITD.RollEngFailDescription": "<strong>Mission Primaire:</strong> Vous êtes en position <strong>désespérée</strong> losque l'action s'engage.<br /><strong>Mission secondaire:</strong> la mission échoue, vous perdez trois membres d’escouade, et tous les Spécialistes subissent une blessure de niveau 3.",
   "BITD.RollEngPartialDescription": "<strong>Mission Primaire:</strong> Vous êtes en position <strong>risquée</strong> losque l'action s'engage.<br /><strong>Mission secondaire:</strong> choisissez : soit la mission échoue mais les Légionnaires rentrent sains et saufs, soit la mission réussit mais deux membres de l’escouade meurent et tous les Spécialistes subissent une blessure de niveau 2",
-  "BITD.RollEngSuccessDescription": "<strong>Mission Primaire:</strong> Vous êtes en position <strong>controllée</strong> losque l'action s'engage.<br /><strong>Mission secondaire:/strong> mission réussie, mais tous vos Spécialistes subissent une blessure de niveau 1. Vous pouvez choisir en plus de perdre deux Bleus et d'en promouvoir un au grade de Soldat.",
-  "BITD.RollEngCritDescription": "<strong>Mission Primaire:</strong> Vous surmontez le premier obstacle et êtes en position <strong>controllée</strong> face à l'obstacle suivant.<br /><strong>Mission secondaire:/strong> Vous réussissez la mission et l'un des membres de l'escouade est promu.",
+  "BITD.RollEngSuccessDescription": "<strong>Mission Primaire:</strong> Vous êtes en position <strong>contrôlée</strong> losque l'action s'engage.<br /><strong>Mission secondaire:/strong> mission réussie, mais tous vos Spécialistes subissent une blessure de niveau 1. Vous pouvez choisir en plus de perdre deux Bleus et d'en promouvoir un au grade de Soldat.",
+  "BITD.RollEngCritDescription": "<strong>Mission Primaire:</strong> Vous surmontez le premier obstacle et êtes en position <strong>contrôlée</strong> face à l'obstacle suivant.<br /><strong>Mission secondaire:/strong> Vous réussissez la mission et l'un des membres de l'escouade est promu.",
 
   "BITD.RollAlcFailDescription": "<strong>Effet Alchimique:</strong> Vous obtenez un mauvais résultat ou un effet minime. Relançez pour la corruption.<br /><strong>Corruption:</strong> Répartissez <strong>3</strong> segments de corruption entre vos Alchimistes.",
   "BITD.RollAlcPartialDescription": "<strong>Effet Alchimique:</strong> Vous obtenez un résultat mitigé ou un effet réduit. Relançez pour la corruption.<br /><strong>Corruption:</strong> Répartissez <strong>2</strong> segments de corruption entre vos Alchimistes",
@@ -470,10 +470,10 @@
 
   "BITD.RollZeromode": "Jet à 0 dé - Lancez deux dés et ne retenz que le résultat le plus bas",
 
-  "BITD.PositionControlled": "Controllé",
+  "BITD.PositionControlled": "Contrôlé",
   "BITD.PositionRisky": "Risqué",
   "BITD.PositionDesperate": "Désespéré",
-  "BITD.EffectZero": "Zero",
+  "BITD.EffectZero": "Zéro",
   "BITD.EffectLimited": "Limité",
   "BITD.EffectStandard": "Standard",
   "BITD.EffectGreat": "Bon",
@@ -492,9 +492,9 @@
 
   "BITD.SkillsProwess": "Prouesse",
   "BITD.SkillsProwessShort": "Prouesse",
-  "BITD.SkillsProwessTip": "Utilisez la Prouesse pour éviter ou réduire les conséquences liées à l’effort physique ou à une blessure.",
+  "BITD.SkillsProwessTip": "Utilisez la Prouesse pour éviter ou réduire les conséquences liées à un effort physique ou à une blessure.",
   "BITD.SkillsManeuver": "Parcourir",
-  "BITD.SkillsManeuverTip": "Lorsque vous parcourez une distance dans l’une des trois dimensions, vous vous soulevez, vous escaladez, sautez, courez ou nagez, en général soit pour échapper soit pour vous confronter au danger.",
+  "BITD.SkillsManeuverTip": "Lorsque vous parcourez une distance dans l’une des trois dimensions, vous soulevez, vous escaladez, sautez, courez ou nagez, en général soit pour échapper soit pour vous confronter au danger.",
   "BITD.SkillsShoot": "Tirer",
   "BITD.SkillsShootTip": "Lorsque vous tirez, vous faites feu avec précision sur une cible à distance.",
   "BITD.SkillsSkirmish": "Combattre",
@@ -576,7 +576,7 @@
   "BITD.LogResourceToChat": "Envoyer les Ressources dans la Chatbox:",
   "BITD.LogResourceToChatHint": "Enregistrez toutes les modifications apportées aux ressources de feuille de rôle par une notification dans chat.",
   "BITD.UseDropdownsInRollDialog": "Utiliser les menus déroulants dans les boîtes de dialogue:",
-  "BITD.UseDropdownsInRollDialogHint": "Utilisez des listes déroulantes au lieu de sélecteurs de type bouton radio pour la position et l'effet dans les boîtes de dialogue",
-  "BITD.UseDropdownsForItemUses": "Utilisez les listes déroulantes pour les utilisations d'objets et de capacités:",
-  "BITD.UseDropdownsForItemUsesHint": "Utilisez des listes déroulantes au lieu de sélecteurs de type bouton radio pour l'objet et la capacité utilisant le suivi"
+  "BITD.UseDropdownsInRollDialogHint": "Utiliser des listes déroulantes au lieu de sélecteurs de type bouton radio pour la position et l'effet dans les boîtes de dialogue",
+  "BITD.UseDropdownsForItemUses": "Utiliser les listes déroulantes pour les utilisations d'objets et de capacités:",
+  "BITD.UseDropdownsForItemUsesHint": "Utiliser des listes déroulantes au lieu de sélecteurs de type bouton radio pour l'objet et la capacité utilisant le suivi"
 }
