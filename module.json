@@ -1,4 +1,6 @@
-{  "name": "greg-translation-fr",
+{  
+"id": "bob-translation-fr",
+"name": "greg-translation-fr",
 "title": "[Translation] Band of Blades French",
 "description": "la trad de greg de Band of Blades",
 "version": "2.0",
